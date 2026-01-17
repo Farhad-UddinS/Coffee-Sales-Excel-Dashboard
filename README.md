@@ -44,3 +44,5 @@ This approach avoids column-order dependency and keeps the model flexible.
 * Dashboard design and visual storytelling
 * Data modelling and aggregation
 
+## Dashboard
+ ![Dashboard](https://github.com/Farhad-UddinS/Coffee-Sales-Excel-Dashboard/blob/main/Screenshot%202026-01-04%20013707.png)
